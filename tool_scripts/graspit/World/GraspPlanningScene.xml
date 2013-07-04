@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<world>
+	<graspableBody>
+		<filename>models/objects/grasp_tests/mildessa.xml</filename>
+		<transform>
+			<fullTransform>(+0.707107 +0.707107 +0 +0)[-61.016 +206.225 +786.074]</fullTransform>
+		</transform>
+	</graspableBody>
+	<obstacle>
+		<filename>models/obstacles/table.xml</filename>
+		<transform>
+			<fullTransform>(+1 +0 +0 +0)[+0 +0 +1301.97]</fullTransform>
+		</transform>
+	</obstacle>
+	<obstacle>
+		<filename>models/obstacles/floor.xml</filename>
+		<transform>
+			<fullTransform>(+1 +0 +0 +0)[-2116.67 -4934.89 +0]</fullTransform>
+		</transform>
+	</obstacle>
+	<robot>
+		<filename>models/robots/Schunk/Schunk.xml</filename>
+		<dofValues>+0.967633 -0.502548 +0.825882 -0.502548 +0.825882 +0 -0.502548 +0.825882 </dofValues>
+		<transform>
+			<fullTransform>(-0.00906774 -0.729178 -0.684253 -0.00381899)[-69.8862 +624.038 +1657.69]</fullTransform>
+		</transform>
+	</robot>
+	<camera>
+		<position>+128.628 -338.921 +1029.81</position>
+		<orientation>-0.648575 -0.0855831 -0.154439 -0.740388</orientation>
+		<focalDistance>+645.807</focalDistance>
+	</camera>
+</world>

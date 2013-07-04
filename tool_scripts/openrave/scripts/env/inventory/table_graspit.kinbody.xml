@@ -1,0 +1,19 @@
+<KinBody name="table_graspit">
+  <RotationAxis>1 0 0 0</RotationAxis>
+  <Body name = "table_base" type="dynamic">
+    <Mass>
+      <!-- specify the total mass or density-->
+      <!-- density of a 'buche' -->
+      <density>690</density>
+      <!-- specify the 3x3 inertia matrix-->
+      <!--inertia>1.5843 -0.017107 0.0 -0.017107 1.9106  0.0 0.0 0.0 1.7465</inertia-->
+      <!-- specify the center of mass (if using ODE physics engine, should be 0)-->
+      <com>0</com>
+    </Mass>
+    <Geom type="trimesh">
+      <Data>../../../home/mdl-ws/GraspIt!/Graspit/models/obstacles/table.iv 0.001</Data>
+      <collision>../../../home/mdl-ws/GraspIt!/Graspit/models/obstacles/table.iv 0.001</collision>
+      <transparency>0.0</transparency>
+    </Geom>      
+  </Body>
+</KinBody>
