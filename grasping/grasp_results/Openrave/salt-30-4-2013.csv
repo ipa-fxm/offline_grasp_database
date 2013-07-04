@@ -1,0 +1,7 @@
+object name,grasp direction,ID,choose_crit,eps_l1,vol_l1,offset_fingers,1:object_grasped,2:lifted,3:moved_start,4:1st_spin,5:1st_spin_90,6:1st_spin_-90,7:hard_dash,8:hard_dash_90,9:hard_dash_-90
+salt,TOP,11,BEST VOL,0.015485738,0.000151542,,0.5,1,1,1,1,1,1,1,1
+salt,SIDE,8,BEST VOL,0.013036113,0.000052578,,0.5,1,1,1,1,1,1,1,1
+salt,TOP,38,RANDOM,0.014462873,0.000108393,,0.5,1,1,1,1,1,1,1,1
+salt,TOP,45,RANDOM,0.005354186,0.000049957,,0.5,1,1,1,1,1,1,1,1
+salt,SIDE,7,0.011905426,0.000037489,0.5,,1,1,1,1,1,1,1,,
+salt,TOP,26,BEST EPS,0.018861886,0.000107448,,0.5,0.5,1,1,1,1,1,1,1

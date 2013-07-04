@@ -1,0 +1,7 @@
+object name,grasp direction,ID,choose_crit,eps_l1,vol_l1,offset_fingers,1:object_grasped,2:lifted,3:moved_start,4:1st_spin,5:1st_spin_90,6:1st_spin_-90,7:hard_dash,8:hard_dash_90,9:hard_dash_-90
+fanta-small,TOP,143,BEST EPS,0.016554497,0.000098808,,0.5,1,1,1,1,1,1,1,1
+fanta-small,SIDE,429,BEST EPS,0.016258149,0.000036422,,0.5,1,1,1,1,1,1,1,1
+fanta-small,SIDE,195,BEST VOL,0.011729094,0.000114912,,0.5,0,,,,,,,
+fanta-small,TOP,160,BEST VOL,0.014560181,0.000110399,,0.5,1,1,1,1,1,1,1,1
+fanta-small,SIDE,59,,0.008474858,0.000048122,,0.5,0,,,,,,,
+fanta-small,SIDE,384,,0.000013603,0.000007799,,0,,,,,,,,
