@@ -1,0 +1,1 @@
+Graspit fanta-small 400000 ContactsAndQuality multi-threaded 431s
