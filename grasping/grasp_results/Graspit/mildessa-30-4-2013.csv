@@ -1,0 +1,7 @@
+object name,grasp direction,ID,choose_crit,eps_l1,vol_l1,offset_fingers,1:object_grasped,2:lifted,3:moved_start,4:1st_spin,5:1st_spin_90,6:1st_spin_-90,7:hard_dash,8:hard_dash_90,9:hard_dash_-90
+mildessa,TOP,22,BEST EPS,0.295,0.408,,0.5,1,1,1,1,1,1,1,1
+mildessa,SIDE,10,BEST VOL,0.323,0.972,,0.5,0.5,1,1,1,1,1,1,1
+mildessa,SIDE,17,,0.322,0.882,,0.5,0.5,1,1,1,1,1,1,1
+mildessa,TOP,9,,0.283,0.394,,0.5,1,1,1,1,1,1,1,1
+mildessa,TOP,19,RANDOM,0.206,0.131,,0.5,0.5,0,,,,,,
+mildessa,SIDE,31,RANDOM,0.192,0.466,,0.5,1,1,1,1,1,1,1,1

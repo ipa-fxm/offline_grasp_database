@@ -1,0 +1,7 @@
+object name,grasp direction,ID,choose_crit,eps_l1,vol_l1,offset_fingers,1:object_grasped,2:lifted,3:moved_start,4:1st_spin,5:1st_spin_90,6:1st_spin_-90,7:hard_dash,8:hard_dash_90,9:hard_dash_-90
+ombia,SIDE,39,BEST EPS,0.949,0.204,,0.5,0,,,,,,,
+ombia,TOP,23,BEST EPS,0.185,0.105,,0.5,1,1,1,1,1,1,1,1
+ombia,TOP,6,BEST VOL,0.157,0.125,,0.5,0,,,,,,,
+ombia,SIDE,33,,0.0487,0.0085,,0.5,0.5,0.5,1,0.5,0.5,0,,
+ombia,SIDE,25,,0.0827,0.0469,,0.5,1,1,1,1,1,1,1,1
+ombia,TOP,29,,0.057,0.084,,0.5,1,1,1,1,1,1,1,1
