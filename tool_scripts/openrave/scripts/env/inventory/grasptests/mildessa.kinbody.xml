@@ -10,8 +10,8 @@
       <!--com>0</com-->
     </Mass>
     <Geom type="trimesh">
-      <Data>../../../home/mdl-ws/Kit_db/Mildessa/Sauerkraut_25k_mod.wrl 0.001</Data>
-      <collision>../../../home/mdl-ws/Kit_db/Mildessa/Sauerkraut_25k_mod.wrl 0.001</collision>
+      <Data>../../../../../../grasping/objects/Sauerkraut_25k_mod.wrl 0.001</Data>
+      <collision>../../../../../../grasping/objects/Sauerkraut_25k_mod.wrl 0.001</collision>
       <transparency>0.0</transparency>
     </Geom>      
   </Body>

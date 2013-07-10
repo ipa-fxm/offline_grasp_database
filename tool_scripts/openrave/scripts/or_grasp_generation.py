@@ -4,11 +4,12 @@
 __builtins__.__openravepy_version__ = '0.8'
 
 from openravepy import *
-import numpy, time, analyzegrasp3d, scipy 
+#import numpy, time, analyzegrasp3d, scipy 
+import numpy, time, scipy 
 
 #env setup
 env=Environment()
-env.Load('../../../home/mdl-ws/OpenRAVE/env/only-target_scene.env.xml')
+env.Load('./env/only-target_scene.env.xml')
 env.SetViewer('qtcoin')
 robot = env.GetRobots()[0]
 
@@ -136,7 +137,7 @@ for graspnmb in range(0,len(validgrasps)):
 	#@toDo: side or top grasp?
 	gmodel.getGlobalApproachDir(validgrasps[graspnmb])
 
-analyzegrasp3d.or_to_csv(grasps_to_file, time_difference) 
+#analyzegrasp3d.or_to_csv(grasps_to_file, time_difference) 
 #analyzegrasp3d.simox_output(graspnmb,mindist,volume,transf,finalconfig[0][manip.GetGripperIndices()]) 
 
 
